@@ -1,5 +1,3 @@
-package ru.mirea.ikbo1218.grachev.ex1;
-
 public class Author {
     private String name, email;
     private char gender;
